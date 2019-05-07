@@ -12,7 +12,7 @@ const authors = [
       books: ['The Adventures of Huckleberry Finn']
     },
     {
-      name: 'Joseph Conrad',
+      name: 'Joseph Conradd',
       imageUrl: 'images/authors/josephconrad.png',
       imageSource: 'Wikimedia Commons',
       books: ['Heart of Darkness']
